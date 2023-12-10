@@ -1,0 +1,28 @@
+@media screen (max-width: 1200px) {
+        .container {
+            width: 1140px
+            margin: 0 auto
+        }
+    
+}
+@media screen (max-width: 768px) {
+    .container {
+        width: 720px
+        margin: 0 auto
+    }
+    .h1 {
+        color: #000
+        font-size: 32px
+        font-weight: 700
+        line-height: 101.385% /* 32.443px */;
+            }
+    
+    
+}
+@media screen (max-width: 576px) {
+    .container {
+        width: auto
+        margin: 0 auto
+    }
+    
+}
